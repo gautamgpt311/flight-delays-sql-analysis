@@ -64,7 +64,7 @@ These data quality issues taught me that in real projects cleaning the data ofte
 ## Project Structure
 
 ```
-├── table_creation.sql
+├── sql_schema.sql
 ├── phase1_data_exploration.sql
 ├── phase2_data_cleaning.sql
 ├── phase3_business_analysis.sql
@@ -75,10 +75,10 @@ These data quality issues taught me that in real projects cleaning the data ofte
 
 ## How to Run
 
-1. Run table_creation.sql to create the database 
+1. Run sql_schema.sql to create the database 
    and tables
 2. Download the dataset from Kaggle and place in 
    MySQL uploads folder
 3. Run the LOAD DATA INFILE command from 
    table_creation.sql
-4. Execute phases 1 through 6 in order
+4. Execute phases 1 through 5 in order

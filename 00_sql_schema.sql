@@ -1,6 +1,6 @@
 -- ============================================================
 -- Project  : US Flight Delays & Cancellations Analysis (2015)
--- File     : table_creation.sql
+-- File     : 00_sql_schema.sql
 -- Tool     : MySQL 8.0
 -- Dataset  : Kaggle — 2015 Flight Delays and Cancellations
 -- Rows     : 5,819,079 flights | 31 columns | 3 tables

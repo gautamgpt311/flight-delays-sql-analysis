@@ -73,7 +73,7 @@ These data quality issues taught me that in real projects cleaning the data ofte
 
 ## How to Run
 
-1. Run sql_schema.sql to create the database 
+1. Run 00_sql_schema.sql to create the database 
    and tables
 2. Download the dataset from Kaggle and place in 
    MySQL uploads folder

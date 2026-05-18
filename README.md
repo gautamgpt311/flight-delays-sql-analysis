@@ -56,20 +56,18 @@ These data quality issues taught me that in real projects cleaning the data ofte
   LAG, running averages with OVER and PARTITION BY
 - Data quality checks and NULL analysis
 - CASE WHEN classification and pivoting
-- Stored procedures with IN parameters
-- Views for reusable reporting
-- Indexes with EXPLAIN to prove performance improvement
-- Triggers for audit logging
 
 ## Project Structure
 
 ```
-├── sql_schema.sql
+├── 00_sql_schema.sql
 ├── phase1_data_exploration.sql
 ├── phase2_data_cleaning.sql
-├── phase3_business_analysis.sql
-├── phase4_advanced_queries.sql
-├── phase5_database_engineering.sql
+├── phase3_airline_performance_analysis.sql
+├── phase4_airport_route_analysis.sql
+├── phase5_delay_cause_analysis.sql
+├── phase6_cancellation_analysis.sql
+├── phase7_advanced_analysis.sql
 └── README.md
 ```
 
@@ -79,6 +77,5 @@ These data quality issues taught me that in real projects cleaning the data ofte
    and tables
 2. Download the dataset from Kaggle and place in 
    MySQL uploads folder
-3. Run the LOAD DATA INFILE command from 
-   table_creation.sql
+3. Run the LOAD DATA INFILE command from 00_sql_schema.sql
 4. Execute phases 1 through 5 in order

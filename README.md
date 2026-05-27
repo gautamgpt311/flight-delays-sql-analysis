@@ -78,4 +78,7 @@ These data quality issues taught me that in real projects cleaning the data ofte
 2. Download the dataset from Kaggle and place in 
    MySQL uploads folder
 3. Run the LOAD DATA INFILE command from 00_sql_schema.sql
-4. Execute phases 1 through 5 in order
+4. Execute phases 1 through 7 in order
+
+## Related Project
+📊 [Power BI Dashboard](https://github.com/gautamgpt311/flight-delays-powerbi-dashboard)

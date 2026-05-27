@@ -23,7 +23,7 @@ The dataset had 5.8 million rows which made it challenging to import and work wi
 ## Key Findings
 
 **Airline Performance**
-Alaska Airlines was the most punctual airline of 2015 with a 77.5% on-time rate. Spirit Airlines was the worst at 54.1% — a 23 percentage point gap between best and worst.
+Alaska Airlines was the most punctual airline of 2015 with a 77.5% on-time rate. United Airlines was the worst at 50% — a 27.5 percentage point gap between best and worst.
 
 **What Actually Causes Cancellations**
 Weather causes 54% of cancellations but airline fault causes 35% — meaning over one third of all cancellations are fully within the airline's control to prevent. 
